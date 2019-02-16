@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.mm \
+  /Users/silviomonnerat/Workspace/airbnb/app/ios/Pods/Target\ Support\ Files/React/React-prefix.pch \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Views/RCTView.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/silviomonnerat/Workspace/airbnb/app/ios/Pods/Headers/Private/yoga/YGMacros.h
