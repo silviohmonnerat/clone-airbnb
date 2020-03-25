@@ -4,7 +4,7 @@ ReactJS para Web e React Native para mobile.
 
 
 ```
-git clone https://github.com/silviohmonnerat/Web-app-e-api-clone-airbnb.git airbnb
+git clone https://github.com/silviohmonnerat/clone-airbnb.git airbnb
 ```
 
 ## instalação requerida
